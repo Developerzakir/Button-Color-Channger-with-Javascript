@@ -1,0 +1,27 @@
+#wrap{
+	margin: auto;
+	width: 740px;
+	height: 450px;
+	background-color: navy;
+}
+
+
+#changecolor{
+	width: 260px;
+	height: 70px;
+	padding: 20px;
+	border-radius: 23px;
+	border-style: none;
+	background-color: #000;
+	font-size: 20px;
+	margin-top: 50px;
+	margin-left: 480px;
+	color: #fff;
+
+}
+
+h1{
+	text-align: center;
+	padding-top: 100px;
+	color: #fff;
+}
